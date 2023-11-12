@@ -8,7 +8,7 @@ export default function ToolsComponents() {
   return (
     <Stack
       direction={"row"}
-      py={1}
+      py={0.2}
       px={4}
       bgcolor={color.backgroundTwo}
       borderRadius={7}
