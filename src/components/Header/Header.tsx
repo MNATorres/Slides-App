@@ -9,11 +9,10 @@ export default function Header() {
       direction="row"
       alignItems={"center"}
       bgcolor={color.background}
-      py={1}
       px={3}
+      py={1}
       color={color.text}
     >
-      
       <Box>
         <TitleAndConfiguration />
         <ToolsComponents />
