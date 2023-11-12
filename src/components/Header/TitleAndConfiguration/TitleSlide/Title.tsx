@@ -1,5 +1,5 @@
 import { Box, Typography } from "@mui/material";
-import color from './../../../utils/MuiColors'
+import color from '../../../../utils/MuiColors'
 
 export default function Title() {
   return (

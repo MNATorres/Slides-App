@@ -1,6 +1,6 @@
 import { Box, Stack } from "@mui/material";
-import Title from "./Title";
-import Configuration from "./Configuration";
+import Title from "./TitleSlide/Title";
+import Configuration from "./configurationSlide/Configuration";
 import DescriptionIcon from "@mui/icons-material/Description";
 import color from "./../../../utils/MuiColors";
 
