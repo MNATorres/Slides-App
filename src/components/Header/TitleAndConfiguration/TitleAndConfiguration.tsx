@@ -6,7 +6,7 @@ import color from "./../../../utils/MuiColors";
 
 export default function TitleAndConfiguration() {
   return (
-    <Stack direction={'row'} alignItems={"center"} width={"100%"} pt={2}>
+    <Stack direction={'row'} alignItems={"center"} width={"100%"} pt={2} pb={1} >
       <Box>
         <DescriptionIcon
           sx={{
